@@ -39,12 +39,12 @@ usage: UnderworldQuest.py [-h] [-v] [-q QUERY] [-a AMOUNT] [-p]
 
 options:
   -h, --help            show this help message and exit
-  -v, --version         returns darkdump's version
+  -v, --version         returns UnderworldQuest's version
   -q QUERY, --query QUERY
                         the keyword or string you want to search on the deepweb
   -a AMOUNT, --amount AMOUNT
                         the amount of results you want to retrieve (default: 10)
-  -p, --proxy           use darkdump proxy to increase anonymity
+  -p, --proxy           use UnderworldQuest proxy to increase anonymity
 
 ```
 ## Visual
